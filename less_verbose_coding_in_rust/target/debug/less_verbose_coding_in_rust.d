@@ -1,0 +1,1 @@
+D:\Workspaces\IntelliJ\Rust\ Threading\ Learnings\less_verbose_coding_in_rust\target\debug\less_verbose_coding_in_rust.exe: D:\Workspaces\IntelliJ\Rust\ Threading\ Learnings\less_verbose_coding_in_rust\src\main.rs D:\Workspaces\IntelliJ\Rust\ Threading\ Learnings\less_verbose_coding_in_rust\src\type_aliases_header.rs

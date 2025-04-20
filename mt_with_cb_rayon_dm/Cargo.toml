@@ -1,0 +1,21 @@
+[package]
+name = "mt_with_cb_rayon_dm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# For concurrent HashMap implementation
+dashmap = "7.0.0-rc2"
+
+# For parallel iterators and work stealing
+rayon = "1.10.0"
+
+
+# For scoped threads and concurrent channels
+crossbeam = "0.8.2"
+crossbeam-channel = "0.5.8"
+crossbeam-utils = "0.8.16"
+
+# Optional but recommended for atomic operations
+atomic = "0.5.3"
+

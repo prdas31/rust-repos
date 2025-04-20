@@ -1,0 +1,11 @@
+D:\Workspaces\IntelliJ\Rust Threading Learnings\less_verbose_coding_in_rust\target\debug\deps\librand_core-45a48a44c9fed948.rmeta: C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src/lib.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\block.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\impls.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\le.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\os.rs
+
+D:\Workspaces\IntelliJ\Rust Threading Learnings\less_verbose_coding_in_rust\target\debug\deps\librand_core-45a48a44c9fed948.rlib: C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src/lib.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\block.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\impls.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\le.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\os.rs
+
+D:\Workspaces\IntelliJ\Rust Threading Learnings\less_verbose_coding_in_rust\target\debug\deps\rand_core-45a48a44c9fed948.d: C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src/lib.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\block.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\impls.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\le.rs C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\os.rs
+
+C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src/lib.rs:
+C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\block.rs:
+C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\impls.rs:
+C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\le.rs:
+C:\Users\prana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.3\src\os.rs:

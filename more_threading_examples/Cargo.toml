@@ -1,0 +1,11 @@
+[package]
+name = "more_threading_examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# For concurrent HashMap implementation
+dashmap = "7.0.0-rc2"
+
+# For parallel iterators and work stealing
+rayon = "1.10.0"

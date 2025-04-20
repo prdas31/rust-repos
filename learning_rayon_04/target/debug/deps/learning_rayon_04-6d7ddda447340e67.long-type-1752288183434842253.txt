@@ -1,0 +1,1 @@
+Fold<rayon::iter::Filter<rayon::iter::Map<rayon::slice::Iter<'_, HashMap<String, i32>>, {closure@src/main.rs:62:14: 62:19}>, {closure@src/main.rs:63:17: 63:21}>, {closure@src/main.rs:64:15: 64:17}, {closure@src/main.rs:64:21: 64:27}>

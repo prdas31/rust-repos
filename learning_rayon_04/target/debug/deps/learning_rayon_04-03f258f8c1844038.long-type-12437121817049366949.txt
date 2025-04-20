@@ -1,0 +1,1 @@
+rayon::iter::Inspect<rayon::iter::Filter<rayon::iter::Map<rayon::slice::Iter<'_, HashMap<String, i32>>, {closure@src/main.rs:20:40: 20:45}>, {closure@src/main.rs:22:47: 22:52}>, &str>

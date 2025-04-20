@@ -1,0 +1,8 @@
+[package]
+name = "less_verbose_coding_in_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+rand = "0.9.0"
